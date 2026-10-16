@@ -5,4 +5,5 @@ Encontre a documentação de requisitos do módulo de administração aqui:
 )
 
 Encontre a documentação de especificação de banco de dados aqui:
+
 [Doc Espec Técnica BD Módulo Admin](https://docs.google.com/document/d/17WNK4YYFyr9iKFPgLCmZOA5Zfx27WTdO0dmUXH5uSWA/edit?usp=sharing)
